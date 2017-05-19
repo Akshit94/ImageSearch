@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Image Search</string>
+    <string name="search">SEARCH</string>
+    <string name="edit_columns">Edit Columns</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="four">Four</string>
+    <string name="enter_search_query">Enter Search Query</string>
+    <string name="detail_image">Detail Image</string>
+    <string name="transition_string">image_transition</string>
+    <string name="loading_more_results">Loading more results…</string>
+    <string name="string_offline">You are currently offline!</string>
+</resources>

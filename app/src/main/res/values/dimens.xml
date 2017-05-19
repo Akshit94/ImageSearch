@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="search_card_height">120dp</dimen>
+    <dimen name="search_card_margin">8dp</dimen>
+    <dimen name="default_card_radius">8dp</dimen>
+    <dimen name="default_card_elevation">6dp</dimen>
+    <dimen name="search_query_margin">8dp</dimen>
+    <dimen name="search_btn_margin">8dp</dimen>
+    <dimen name="search_btn_text_size">16sp</dimen>
+    <dimen name="progress_bar_margin">4dp</dimen>
+    <dimen name="loading_text_size">20sp</dimen>
+    <dimen name="search_progress_param">40dp</dimen>
+    <dimen name="search_progress_margin">12dp</dimen>
+</resources>

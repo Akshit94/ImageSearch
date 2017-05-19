@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="@string/edit_columns"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_view_column_white_24dp"
+        android:id="@+id/action_columns" >
+
+        <menu>
+            <group android:checkableBehavior="single">
+                <item app:showAsAction="never"
+                    android:id="@+id/action_two"
+                    android:title="@string/two" />
+                <item app:showAsAction="never"
+                    android:id="@+id/action_three"
+                    android:title="@string/three" />
+                <item app:showAsAction="never"
+                    android:id="@+id/action_four"
+                    android:title="@string/four" />
+            </group>
+        </menu>
+
+    </item>
+</menu>
